@@ -1,3 +1,8 @@
+/*
+Console word guessing game 
+Sept 22, 2022
+*/
+
 using System;
 using System.Linq;
 
